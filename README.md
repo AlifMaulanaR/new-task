@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Muhammad Aliif Maulana. R - 13020220223
+> This is my first project Github
 
 ### Deskripsi Aplikasi
 
